@@ -1,2 +1,6 @@
-*.class
-*.log
+target
+test-output/
+.sbtopts
+project/.sbt
+.idea
+.bsp
